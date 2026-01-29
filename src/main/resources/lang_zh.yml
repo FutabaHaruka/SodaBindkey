@@ -1,0 +1,3 @@
+prefix: "&b[SodaKeyBind] "
+no-permission: "&c你没有权限使用该快捷键！"
+command-executed: "&a已执行快捷指令: %cmd%"
