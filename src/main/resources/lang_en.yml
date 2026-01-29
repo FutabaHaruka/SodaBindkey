@@ -1,0 +1,3 @@
+prefix: "&b[SodaKeyBind] "
+no-permission: "&cYou don't have permission to use this keybind!"
+command-executed: "&aExecuted: %cmd%"
