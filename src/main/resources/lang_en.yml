@@ -1,3 +1,4 @@
 prefix: "&b[SodaKeyBind] "
-no-permission: "&cYou don't have permission to use this keybind!"
+no-permission: "&cYou don't have permission!"
 command-executed: "&aExecuted: %cmd%"
+reload-success: "&aConfiguration and language files reloaded!"
