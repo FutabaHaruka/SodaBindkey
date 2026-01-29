@@ -1,3 +1,4 @@
 prefix: "&b[SodaKeyBind] "
-no-permission: "&c你没有权限使用该快捷键！"
+no-permission: "&c你没有权限执行此操作！"
 command-executed: "&a已执行快捷指令: %cmd%"
+reload-success: "&a配置文件和语言文件已成功重载！"
