@@ -1,0 +1,17 @@
+# 语言设置: zh, en
+language: zh
+
+key-binds:
+  # 示例：F 键打开菜单
+  open_menu:
+    trigger: SWAP_HAND     # 原版 F 键动作
+    require-shift: false   # 是否需要按住 Shift
+    command: "cd"          # 执行的指令
+    permission: "soda.keybind.use"
+
+  # 示例：Shift + F 回城
+  spawn_teleport:
+    trigger: SWAP_HAND
+    require-shift: true    # 组合键：Shift + F
+    command: "spawn"
+    permission: "soda.keybind.use"
