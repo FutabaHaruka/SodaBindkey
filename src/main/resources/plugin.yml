@@ -1,0 +1,9 @@
+name: SodaKeyBind
+version: 1.0.0
+main: soda.keybind.SodaKeyBind
+api-version: 1.21
+authors: [Haruka]
+permissions:
+  soda.keybind.use:
+    description: 允许使用按键绑定
+    default: true  # 默认为玩家权限
